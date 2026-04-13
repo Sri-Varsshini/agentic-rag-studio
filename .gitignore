@@ -38,3 +38,12 @@ rough_notes.txt
 # Backup folder contents (keep folder via .gitkeep)
 backup/*
 !backup/.gitkeep
+
+# Untracked project files
+.agent/
+.claude/
+CLAUDE.md
+MODULE_1_COMPLETE.md
+PRD.md
+PROGRESS.md
+TESTING.md

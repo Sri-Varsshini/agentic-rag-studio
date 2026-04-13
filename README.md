@@ -1,6 +1,6 @@
 # Agentic RAG Studio
 
-Build a full-featured agentic RAG application by collaborating with Claude Code.
+Build a full-featured agentic RAG application.
 
 ## What You'll Build
 
@@ -31,17 +31,7 @@ Build a full-featured agentic RAG application by collaborating with Claude Code.
 7. Additional Tools — Text-to-SQL, web search fallback
 8. Subagents — Isolated context, document analysis delegation
 
-## Getting Started
-
-1. Clone this repo
-2. Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-3. Open in your IDE (Cursor, VS Code, etc.)
-4. Run `claude` in the terminal
-5. Use the `/onboard` command to get started
-
 ## Docs
 
-- [PRD.md](./PRD.md) — What to build (the 8 modules in detail)
-- [CLAUDE.md](./CLAUDE.md) — Context for Claude Code
 - [SETUP.md](./SETUP.md) — Detailed setup guide
 - [QUICKSTART.md](./QUICKSTART.md) — 5-minute quick start
